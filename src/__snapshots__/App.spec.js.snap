@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App: snapshot renders 1`] = `
+<div
+  className="ui-app"
+>
+  <form
+    className="ui-form"
+    onSubmit={[Function]}
+  >
+    <input
+      className="ui-input"
+      disabled={false}
+      onChange={[Function]}
+      placeholder="Search Flickr for images..."
+      type="search"
+      value=""
+    />
+    <button
+      className="ui-button"
+      type="submit"
+    >
+      Search
+    </button>
+  </form>
+  <section
+    className="ui-items"
+  />
+</div>
+`;
